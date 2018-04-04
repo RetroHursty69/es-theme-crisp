@@ -37,7 +37,7 @@
 	<color>00000000</color>
 	<origin>0.5 0.5</origin>
 	<pos>0.232 0.15</pos>
-	<size>1 .4</size> 
+	<size>1 0.3</size> 
 	<logoScale>1.0</logoScale>
 	<logoSize>0.32 0.21</logoSize>
 	<maxLogoCount>1</maxLogoCount>
