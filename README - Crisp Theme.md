@@ -141,6 +141,7 @@ namco
 nbajam
 nds
 neogeo
+neogeocd
 nes
 nes-classic
 nesh
@@ -158,6 +159,7 @@ pce-cd
 pcengine
 pcenginecd
 pcfx
+philipscdi
 pinball
 pitfall
 pixel
